@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\SSJ\\Desktop\\t\\WebTEST\\WebTEST\\WebTEST\\WebTEST.csproj",
+      "projectUniqueName": "C:\\Users\\SSJ\\Desktop\\TEST\\WebTEST\\WebTEST\\WebTEST.csproj",
       "projectName": "WebTEST",
-      "projectPath": "C:\\Users\\SSJ\\Desktop\\t\\WebTEST\\WebTEST\\WebTEST\\WebTEST.csproj",
+      "projectPath": "C:\\Users\\SSJ\\Desktop\\TEST\\WebTEST\\WebTEST\\WebTEST.csproj",
       "packagesPath": "C:\\Users\\SSJ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\SSJ\\Desktop\\t\\WebTEST\\WebTEST\\WebTEST\\obj\\",
+      "outputPath": "C:\\Users\\SSJ\\Desktop\\TEST\\WebTEST\\WebTEST\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
