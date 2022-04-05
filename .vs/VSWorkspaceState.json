@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\WebTEST"
   ],
-  "SelectedNode": "\\WebTEST.sln",
+  "SelectedNode": "\\WebTEST\\WebTEST.sln",
   "PreviewInSolutionExplorer": false
 }
